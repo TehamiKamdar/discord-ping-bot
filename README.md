@@ -32,11 +32,9 @@ Before installing the bot, make sure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
-cd YOUR_REPOSITORY_FOLDER
+git clone https://github.com/TehamiKamdar/discord-ping-bot
+cd discord-ping-bot
 ```
-
-Replace `YOUR_REPOSITORY_URL` with your GitHub repository URL and `YOUR_REPOSITORY_FOLDER` with the actual project folder name.
 
 Alternatively, download the repository as a ZIP file and extract it.
 
